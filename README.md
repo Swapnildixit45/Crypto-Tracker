@@ -1,4 +1,4 @@
-#The code is deployed at
+# The website is deployed at
 https://swapnildixit45.github.io/Crypto-Tracker/
 
 
